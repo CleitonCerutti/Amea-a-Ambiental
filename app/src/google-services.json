@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284778639851",
+    "project_id": "fir-ameacadatabase-c8e5d",
+    "storage_bucket": "fir-ameacadatabase-c8e5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284778639851:android:0490edd235d116e827e9ae",
+        "android_client_info": {
+          "package_name": "com.example.ameacaambiental"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkAg6sWFRdiyX5unp7jW82CahZR1K_mIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
